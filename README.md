@@ -1,6 +1,6 @@
 # Sorting Algorithm Visualizer
 
-This project is a visualizer for various sorting algorithms, implemented using Python and Pygame. The visualizer allows you to see how different sorting algorithms sort a list of numbers step-by-step. It is an educational tool designed to help you understand the inner workings of these algorithms.
+This project is a visualizer for various sorting algorithms, implemented using Python and Pygame. The visualizer allows you to see how different sorting algorithms sort a list of numbers step-by-step.
 
 ## Features
 
