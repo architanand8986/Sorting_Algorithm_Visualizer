@@ -18,7 +18,7 @@ This project is a visualizer for various sorting algorithms, implemented using P
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - Pygame library
 
 ## Controls
